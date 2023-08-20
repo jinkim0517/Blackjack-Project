@@ -2,7 +2,7 @@
 A command line blackjack card game created in C++
 
 
-Play against a programmed computer based on the Bicycle website and track your score!
+Play against a programmed computer based on the BICYCLE website and track your score!
 
 
 Hints are also given if you are ever stuck.
