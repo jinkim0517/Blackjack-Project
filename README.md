@@ -7,4 +7,6 @@ Play against a programmed computer based on the Bicycle website and track your s
 
 Hints are also given if you are ever stuck.
 
-Demo: https://drive.google.com/file/d/1QHKC1rryYT5cEt4-UHjK9WVnSgKYc8uG/view?usp=sharing
+https://github.com/jinkim0517/Blackjack-Project/assets/90814113/bf621b93-3c61-4e6b-a231-ffa05a504f63
+
+
